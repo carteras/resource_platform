@@ -1,5 +1,5 @@
 #Example Program of learning
-##Course name: 
+#Course name: 
 Robotics and Mechatronics
 ###Unit title:
 Building & Programming Circuits
@@ -16,6 +16,7 @@ _What is the essential knowledge our students will need to understand and apply 
 * How can developers Design, building, and program,  circuits physical or simulated environments?  
 * Improve, review, and evaluate, systems using diagnostic tools. 
 * How to calculate appropriate power demands for various components. 
+
 ###Essential Skills
 _What are the essential skills our students will need to acquire and demonstrate to succeed in this unit?_
 * Ohms law, 
