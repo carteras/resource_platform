@@ -6,7 +6,7 @@ Building & Programming Circuits
 ### Unit description:
 This unit of study provides opportunities for students to learn about the components of electronics and the design and construction of electronic systems. They will use design methodologies to investigate, strategise, prototype, evaluate and critically analyse the construction of electronic systems. Students will gain the skills and knowledge necessary to apply the design process using electronics to create innovative and sustainable systems.
 
-##U nit Goals: 
+## Unit Goals: 
 ### Essential Knowledge
 _What is the essential knowledge our students will need to understand and apply to succeed in this unit?_ 
 * How is the everyday world embedded with electronic and mechatronic systems?
@@ -17,7 +17,7 @@ _What is the essential knowledge our students will need to understand and apply 
 * Improve, review, and evaluate, systems using diagnostic tools. 
 * How to calculate appropriate power demands for various components. 
 
-###Essential Skills
+### Essential Skills
 _What are the essential skills our students will need to acquire and demonstrate to succeed in this unit?_
 * Ohms law, 
 * Circuit design
@@ -42,7 +42,7 @@ _What are the essential skills our students will need to acquire and demonstrate
 ** An Arduino car
 ** A home security system using mockup houses (cardboard boxes)
 
-###Weekly planner
+### Weekly planner
 1. 
 2. 
 3. 
