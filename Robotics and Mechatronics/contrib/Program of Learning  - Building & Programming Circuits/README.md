@@ -1,13 +1,13 @@
-#Example Program of learning
-#Course name: 
+# Example Program of learning
+# Course name: 
 Robotics and Mechatronics
-###Unit title:
+### Unit title:
 Building & Programming Circuits
-###Unit description:
+### Unit description:
 This unit of study provides opportunities for students to learn about the components of electronics and the design and construction of electronic systems. They will use design methodologies to investigate, strategise, prototype, evaluate and critically analyse the construction of electronic systems. Students will gain the skills and knowledge necessary to apply the design process using electronics to create innovative and sustainable systems.
 
-##Unit Goals: 
-###Essential Knowledge
+##U nit Goals: 
+### Essential Knowledge
 _What is the essential knowledge our students will need to understand and apply to succeed in this unit?_ 
 * How is the everyday world embedded with electronic and mechatronic systems?
 * How do we solve, identify and communicate problems or challenges with programmed circuits?
@@ -28,7 +28,7 @@ _What are the essential skills our students will need to acquire and demonstrate
 * ...
 
 
-###Assessments
+### Assessments
 * Example Assessment Item
 * A portfolio of common circuit construction 
 ** blinking light 
