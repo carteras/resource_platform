@@ -31,16 +31,16 @@ _What are the essential skills our students will need to acquire and demonstrate
 ### Assessments
 * Example Assessment Item
 * A portfolio of common circuit construction 
-** blinking light 
-** morse code transmitter (LED)
-** Potentiometers 
-** Distance Sensors
-** DC Motors
-** Servos
-** H-Bridge / Motor Controllers 
+    * blinking light 
+    * morse code transmitter (LED)
+    * Potentiometers 
+    * Distance Sensors
+    * DC Motors
+    * Servos
+    * H-Bridge / Motor Controllers 
 * A minor project (a sum of parts)
-** An Arduino car
-** A home security system using mockup houses (cardboard boxes)
+    * An Arduino car
+    * A home security system using mockup houses (cardboard boxes)
 
 ### Weekly planner
 1. 
